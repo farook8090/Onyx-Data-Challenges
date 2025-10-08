@@ -22,4 +22,4 @@ DAX
 
 Data storytelling & visualization
 
-📈 Perfect for data enthusiasts looking to explore real-world business problems and visualization techniques.
+# 📈 Perfect for data enthusiasts looking to explore real-world business problems and visualization techniques.
