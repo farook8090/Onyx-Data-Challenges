@@ -23,3 +23,7 @@ DAX
 Data storytelling & visualization
 
 # 📈 Perfect for data enthusiasts looking to explore real-world business problems and visualization techniques.
+
+# Challenges Dasboard using POWER BI:
+
+![Main page dashboard](https://github.com/farook8090/Onyx-Data-Challenges/blob/b19284556c0d0dc349bc656f88b5ce650d7d2e87/2025/Oct/DataDNA%20Dataset%20Challenge%20-%20Consumer%20Financial%20Complaints%20Dataset%20-%20October%202025/Consumer%20Financial%20Complaints%20Analytics%20Challenge_Brief/Consumer%20Financial%20Complaints%20Analytics%20Challenge_Brief_page-0001.jpg)
